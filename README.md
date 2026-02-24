@@ -183,7 +183,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
 |2025|arXiv|China|[MM-UAVBench](https://arxiv.org/pdf/2512.23219)|[![Star](https://img.shields.io/github/stars/MM-UAVBench/MM-UAVBench.svg?style=social&label=Star)](https://github.com/MM-UAVBench/MM-UAVBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/130)|
 |2025|arXiv|China|[LRS-VQA-Zoom](https://arxiv.org/abs/2511.21272)|[![Star](https://img.shields.io/github/stars/VisionXLab/RSCoVLM.svg?style=social&label=Star)](https://github.com/VisionXLab/RSCoVLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/132)|
-|2026|arXiv|China|[UHR-CoZ](https://arxiv.org/abs/2602.14201)|[![Star](https://img.shields.io/github/stars/nanocm/GeoEyes.svg?style=social&label=Star)](https://github.com/nanocm/GeoEyes)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/132)|
+|2026|arXiv|China|[UHR-CoZ](https://arxiv.org/abs/2602.14201)|[![Star](https://img.shields.io/github/stars/nanocm/GeoEyes.svg?style=social&label=Star)](https://github.com/nanocm/GeoEyes)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/133)|
 ### Visual Grounding
 
 
