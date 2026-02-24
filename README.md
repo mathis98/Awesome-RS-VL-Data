@@ -25,7 +25,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2026.02.24 🔥🔥🔥
-- **2026.02.24**: UHR-CoZ, GeoReason-Bench, 
+- **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
 - We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
 - **2026.01.01**: LRS-VQA-Zoom
 - **2025.12.30**: MM-UAVBench
@@ -84,7 +84,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|NeurIPS|Japan|[DisasterM3](https://arxiv.org/abs/2505.21089)|[![Star](https://img.shields.io/github/stars/Junjue-Wang/DisasterM3.svg?style=social&label=Star)](https://github.com/Junjue-Wang/DisasterM3)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/111)|
 |2025|arXiv|China|[SARVLM-1M](https://arxiv.org/abs/2510.22665)|NAN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/112)|
 |2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
-
+|2026|arXiv|United Arab Emirates|[OpenEarthAgent Dataset](https://arxiv.org/pdf/2602.17665)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/OpenEarthAgent.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/OpenEarthAgent)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/136)|
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
