@@ -27,7 +27,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 🔥🔥🔥 Last Updated on 2026.04.22 🔥🔥🔥
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-f8mcqdad4qqffpp3xemhhy.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
-- **2026.04.22**: SkyFind
+- **2026.04.22**: SkyFind,GeoMMBench
 - **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
 - We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
 - **2026.01.01**: LRS-VQA-Zoom
