@@ -12,7 +12,7 @@
 [![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
 [![Paper](https://img.shields.io/badge/TechRxiv-Paper-yellow)](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1)
 [![Agent Demo](https://img.shields.io/badge/Agent-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
-
+[![Agent Skill](https://img.shields.io/badge/Agent-Skill-red.svg?style=flat)](https://github.com/HUASHANGLIUSU/geochef-skill)
 </div>
 
 <br />
@@ -25,12 +25,13 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.04.22 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.04.28 🔥🔥🔥
+- **2026.04.28**: 🚀🚀🚀 **We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!**
+
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-v2-1.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
 - **2026.04.22**: SkyFind,GeoMMBench
 - **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
 - We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
-- **2026.01.01**: LRS-VQA-Zoom
 
 - 🚀🚀🚀 We will release the survey ASAP.
 
